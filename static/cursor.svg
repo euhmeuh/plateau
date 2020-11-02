@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="52"
+   height="62"
+   viewBox="0 0 13.758334 16.404167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="cursor.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter943"
+       x="-0.069119997"
+       width="1.13824"
+       y="-0.069119997"
+       height="1.13824">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.36575999"
+         id="feGaussianBlur945" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.4180787"
+     inkscape:cx="11.041641"
+     inkscape:cy="22.13871"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     width="48mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="938"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.52346961,0.52346961)">
+    <circle
+       style="opacity:0.3;fill:#2e3436;fill-rule:evenodd;stroke:none;stroke-width:0.427361;stroke-opacity:1;filter:url(#filter943)"
+       id="circle841"
+       cx="6.3499999"
+       cy="7.9375"
+       r="6.3499999"
+       transform="matrix(0.82803668,0,0,0.82803668,1.091967,2.4232922)" />
+    <circle
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.396891;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path10"
+       cx="6.3556972"
+       cy="6.3556972"
+       r="6.1515546" />
+    <circle
+       style="fill:#ef2929;fill-rule:evenodd;stroke:none;stroke-width:0.356134;stroke-opacity:1"
+       id="circle835"
+       cx="6.3499999"
+       cy="6.3499999"
+       r="5.291666" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.53296px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.213324"
+       x="3.5605388"
+       y="9.4602804"
+       id="text839"><tspan
+         sodipodi:role="line"
+         id="tspan837"
+         x="3.5605388"
+         y="9.4602804"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.213324">1</tspan></text>
+  </g>
+</svg>

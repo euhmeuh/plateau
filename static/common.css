@@ -1,0 +1,52 @@
+html, body {
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+}
+
+body {
+  background-color: #798467;
+}
+
+#game {
+  display: grid;
+  width: 100%;
+  height: 100%;
+}
+
+.cursor {
+  position: absolute;
+  background-image: url(cursor.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 52px;
+  height: 62px;
+  top: 0px;
+  left: 0px;
+  z-index: 1000;
+}
+
+.cursors, .board, .deck, .stack, .pile, .hand {
+  position: relative;
+}
+
+.card {
+  width: 250px;
+  height: 350px;
+
+  background-color: white;
+  box-shadow: 0px 0px 5px rgba(81,81,81,0.5);
+  border-radius: 16px;
+  border: 2px solid transparent;
+
+  position: absolute;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.card:hover {
+  border: 2px solid red;
+}
